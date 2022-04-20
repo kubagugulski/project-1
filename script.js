@@ -10,7 +10,7 @@ const revealCat = () => {
         btn1.style.backgroundColor = 'tomato'
         btn1.textContent = 'Hide cat'
     } else {
-        btn1.style.backgroundColor = 'green'
+        btn1.style.backgroundColor = 'blue'
         btn1.textContent = 'Reveal cat'
     }
 }
